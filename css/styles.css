@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    height: 100vh;
+    
+}
+.primero {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    position: relative;
+    top: 30px;
+    left: 20px;
+}
+.segundo {
+    width: 100px;
+    height: 100px;
+    background-color: lightcoral;
+    position: absolute;
+    right: 30px;
+    bottom: 20px;
+}
